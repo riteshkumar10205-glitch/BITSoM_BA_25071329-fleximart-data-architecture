@@ -1,3 +1,6 @@
 pandas
+numpy
+phonenumbers
 mysql-connector-python
-python-dateutil
+SQLAlchemy
+python-dotenv
